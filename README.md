@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to build projects in the Web3 space.
 - 👯 I’m looking to collaborate on Web and Mobile developement projects.
 - 💬 Ask me about Blockchain, Mobile development, Solidity, MetaVerse
-- 📫 How to reach me: LinkedIn - https://in.com/in/joshua-okoro-4b2992172/  Instagram - https://instagram.com/maazi__okoro  eMail - josidbobo@gmail.com
+- 📫 How to reach me: LinkedIn - https://in.com/in/joshua-okoro-4b2992172/  
+                       Instagram - https://instagram.com/maazi__okoro  
+                       eMail - josidbobo@gmail.com
