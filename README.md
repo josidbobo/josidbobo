@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a software developer and tester
-- 🌱 I’m currently learning to build projects in the Web3 space.
+- 🌱 I’m currently building projects in the Web3.
 - 👯 I’m looking to collaborate on Web and Mobile developement projects.
 - 💬 Ask me about Blockchain, Mobile development, Solidity, MetaVerse
 - 📫 How to reach me: [LinkedIn](https://in.com/in/joshua-okoro-4b2992172/) 
