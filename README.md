@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a software Engineer (Mobile, Blockchain) 
-- 🌱 I’m currently building projects in the mobile development with Flutter and Web3 space with Rust and Solidity.
+- 🌱 I’m currently building projects in mobile development with Flutter and Web3 space with Rust and Solidity.
 - 👯 I’m looking to collaborate on Mobile developement projects.
 - 💬 Ask me about Blockchain, Mobile development, Solidity, Zero Knowledge
 - 📫 How to reach me: [LinkedIn](https://in.com/in/joshua-okoro-4b2992172/) 
